@@ -1,0 +1,36 @@
+---
+villages:
+- counter_id: 1
+  village_name: "Village1"
+  energyConsumptions:
+  - consumption: 12345.0
+    recordedAt: 1580387860063
+  created_at: 1580387839926
+- counter_id: 2
+  village_name: "Village2"
+  energyConsumptions:
+  - consumption: 22345.0
+    recordedAt: 1580301519000
+  - consumption: 32345.0
+    recordedAt: 1580387870639
+  - consumption: 52345.0
+    recordedAt: 1580301519000
+  created_at: 1580387841550
+- counter_id: 3
+  village_name: "Village3"
+  energyConsumptions:
+  - consumption: 32345.0
+    recordedAt: 1580387887398
+  - consumption: 42345.0
+    recordedAt: 1580387890903
+  created_at: 1580387844033
+- counter_id: 4
+  village_name: "Village4"
+  energyConsumptions:
+  - consumption: 42345.0
+    recordedAt: 1580301519000
+  created_at: 1580387846147
+- counter_id: 5
+  village_name: "Village5"
+  energyConsumptions: []
+  created_at: 1580387848392
